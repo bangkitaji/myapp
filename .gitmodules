@@ -1,0 +1,6 @@
+[submodule "phalcon-sqlsrv"]
+	path = phalcon-sqlsrv
+	url = https://github.com/bangkitaji/phalcon-sqlsrv.git
+[submodule "app/library"]
+	path = app/library
+	url = https://github.com/bangkitaji/phalcon-sqlsrv.git
